@@ -18,7 +18,9 @@ Rockbox Tutorial (IFixIt): https://www.ifixit.com/Guide/How+to+install+Rockbox+o
 Black Spudger points to the three points of where the battery is soldered. Located on the backside of the PCB, turning the PCB around you can see the three point that need to be desoldiered
 
 <img width="358" height="470" alt="image" src="https://github.com/user-attachments/assets/0f01ec39-dead-4364-a025-26a666c983b6" />
+   
    ******* The circled points show where the battery is soldiered
 
-# USB-C
+# Micro-USB
+
 Plan didn't go as expected since the Ipod Nano 2nd generation has a different motherboard than the tutorial I saw on the Orginal IPod Nano, so I will use CAD to make a case that can fit both the adapter and ipod, while keeping the headphone jack accessible
